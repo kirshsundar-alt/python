@@ -1,12 +1,9 @@
 # Shopping Bill Calculator with Discount
-
 # Data variables
 items = ["Shirt", "Shoes", "Watch", "Bag", "Cap"]
 prices = [500, 1200, 800, 650, 300]
-
 total = 0
 item_count = 0
-
 print("=" * 35)
 print("   SHOPPING BILL RECEIPT")
 print("=" * 35)
